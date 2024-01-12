@@ -9,7 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "^1.6.5",
+    "eth-crypto": "^2.6.0",
+    "ethereum-cryptography": "^2.1.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
